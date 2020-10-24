@@ -1,4 +1,4 @@
-### Hi! I'm Fermín 👋
+### Hi! I'm Fermín 👋🏻
 
 <!--
 **ferminmine/ferminmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
