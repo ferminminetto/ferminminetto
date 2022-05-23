@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👨🏻‍💻 I’m currently working in [Ripio](https://www.ripio.com/)
+- 👨🏻‍💻 I’m currently working in [3XM](https://www.3xmgroup.com)
 - 🛫 I'd love to live in another country in the future
 - 🌱 I’m currently learning more about Computer Science using Python as main tool
 - 💬 Love discussing videogames and software development.
